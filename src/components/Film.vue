@@ -21,7 +21,7 @@ const props = defineProps({
   background-color: #fff;
   border: 1px solid #ccc;
   padding: 1rem;
-  grid-column: auto / span 2;
+  grid-column: auto / span 3;
   cursor: move;
 
   &--is-dragging {
